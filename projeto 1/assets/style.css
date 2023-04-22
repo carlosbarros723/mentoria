@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    color: #000000;
+    font-family: 'Epilogue', sans-serif;
+ 
+    
+}
+
+
+
+.contaner__flex{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
